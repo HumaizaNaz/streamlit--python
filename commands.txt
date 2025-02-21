@@ -97,3 +97,6 @@ if upload_files:
 
 # 🎉 Show success message when all processes are completed
 st.success("✅ All file processes completed! 🎊")
+
+
+streamlit run app.py
